@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705844670489",
+    "project_id": "regwith-mobile",
+    "storage_bucket": "regwith-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705844670489:android:10982c233844777d82fa88",
+        "android_client_info": {
+          "package_name": "com.example.regwithmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705844670489-4gb22e540k906k17d0h57udaite42u71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBwYg_HpyVV5inp-FzRTHCZecGs6tb86I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705844670489-4gb22e540k906k17d0h57udaite42u71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
